@@ -1,0 +1,18 @@
+body {
+  position: sticky;
+  background-color: rgba(235, 243, 242, 0.0993);
+  margin: 0 auto;
+  border: 0px solid red;
+  font-family: monospace;
+}
+
+body,
+html {
+  height: 99vh;
+  width: 99vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

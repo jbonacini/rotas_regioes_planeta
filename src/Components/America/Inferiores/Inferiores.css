@@ -1,0 +1,11 @@
+.Inferiores {
+    height: 90vh;
+    background-color: green;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+#Inferiores {
+  width: 32vw;
+  height: 32vh;
+}
